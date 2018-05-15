@@ -1,0 +1,6 @@
+br\com\stlingws\test\PedidoProdutoRepositoryTest.class
+br\com\stlingws\test\PedidoRepositoryTest.class
+br\com\stlingws\test\ProdutoRepositoryTest.class
+br\com\stlingws\test\TIpoUsuarioRepositoryTest.class
+br\com\stlingws\test\UsuarioRepositoryTest.class
+br\com\stlingws\test\ClienteRepositoryTest.class
